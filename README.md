@@ -36,3 +36,6 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="HTMl" width="50px" height="50px">
    <img src="https://1000logos.net/wp-content/uploads/2020/06/Illustrator-Logo.png" alt="HTMl" width="80px" height="50px">
 </div>
+
+#### Hobbies : Play sports, LEGO, Games
+
