@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 <div>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png" alt="C#" width="50px" height="50px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="HTMl" width="50px" height="50px">
-   <img src="https://1000logos.net/wp-content/uploads/2020/06/Illustrator-Logo.png" alt="HTMl" width="100px" height="50px">
+   <img src="https://1000logos.net/wp-content/uploads/2020/06/Illustrator-Logo.png" alt="HTMl" width="80px" height="50px">
 </div>
