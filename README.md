@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 #### University : HCM CITY UNIVERSITY OF INDUSTRY AND TRADE (2020 - 2024)
 #### Languages : 
 <div>
-  <img src="https://thichchiase.com/wp-content/uploads/2020/04/fa9d4f7cf28b6f009570751504b5fbe1.png" alt="C#">
+  <img src="https://thichchiase.com/wp-content/uploads/2020/04/fa9d4f7cf28b6f009570751504b5fbe1.png" alt="C#" width="300px" height="200px">
 </div>
