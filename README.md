@@ -29,3 +29,8 @@ Here are some ideas to get you started:
       <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png" alt="C#" width="100px" height="50px">
         
 </div>
+
+#### Software :
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png" alt="C#" width="100px" height="50px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="HTMl" width="100px" height="50px">
+   <img src="https://1000logos.net/wp-content/uploads/2020/06/Illustrator-Logo.png" alt="HTMl" width="100px" height="50px">
