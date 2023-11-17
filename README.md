@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🌱 My profile : 
+# Date of birth : 2002/10/22 
+# University : HCM CITY UNIVERSITY OF INDUSTRY AND TRADE (2020 - 2024)
+# Languages : 
+![C#]([url_to_your_image](https://thichchiase.com/wp-content/uploads/2020/04/fa9d4f7cf28b6f009570751504b5fbe1.png)https://thichchiase.com/wp-content/uploads/2020/04/fa9d4f7cf28b6f009570751504b5fbe1.png)
