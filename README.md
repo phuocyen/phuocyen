@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" alt="C#" width="50px" height="50px">
       <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png" alt="C#" width="50px" height="50px">
          <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="C#" width="50px" height="50px">
-   <img src="  https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="C#" width="50px" height="50px">
+   <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="C#" width="50px" height="50px">
 
 </div>
 
