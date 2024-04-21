@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 #### Software :
 <div>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png" alt="C#" width="50px" height="50px">
-   <img src="  https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="C#" width="50px" height="50px">
+   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="C#" width="50px" height="50px">
 
   <br >
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="HTMl" width="50px" height="50px">
