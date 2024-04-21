@@ -29,7 +29,9 @@ Here are some ideas to get you started:
       <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png" alt="C#" width="50px" height="50px">
          <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="C#" width="50px" height="50px">
    <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="C#" width="50px" height="50px">
+   <img src="https://assets-global.website-files.com/632d8bdfaa198525e29dd55e/641c1b4e02e8cc2d3f9b010f_mysql-database-web-development-computer-software-dolphin-3f2ef1a6723e0e7faa8ac845294f02a3.png" alt="C#" width="50px" height="50px">
 
+  
 </div>
 
 #### Software :
